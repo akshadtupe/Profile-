@@ -1,4 +1,3 @@
-# Profile-
 
 <h1 align="center">Hi. I'm Akshad Tupe</h1>
 <h3 align="center">Passionate about AI, Machine Learning, and Data Science</h3>
